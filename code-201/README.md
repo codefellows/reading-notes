@@ -10,7 +10,7 @@
   - Self Closing: `<img />`
   - Surrounding Content: `<span>Words</span>`
 - Tags can have attributes to describe in more detail
-  - `<img height="300" />
+  - `<img height="300" />`
 
 ## Javascript Conditionals
 
